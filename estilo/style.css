@@ -9,7 +9,7 @@ body{
     background-color: rgb(236, 236, 236);
 }
 
-div.qrcode{
+main{
     background-color: rgb(255, 255, 255);
     width: 300px;
     height: 500px;
@@ -28,7 +28,7 @@ img{
     margin-bottom: 30px;
 } 
 
-div h1{
+h1{
     font-size: 1.6em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
@@ -36,7 +36,7 @@ div h1{
     margin-bottom: 15px;
 }
 
-div p{
+p{
     font-size: 1.1em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
