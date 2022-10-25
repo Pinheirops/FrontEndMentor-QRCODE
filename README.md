@@ -1,8 +1,9 @@
 # QR Code FrontendMentor
-_____________________________
+<p>Solução para o exercicio do FrontendMentor QR CODE</p>
+__________________________________________________________
 <p>• Html </p>
 <p>• Css </p>
-_____________________________
+__________________________________________________________
 
-<p>link parar vizualizar o execício:</p>
-<a href="https://pinheirops.github.io/FrontEndMentor-QRCODE/QRcode.html"> Executar o exercício </a>
+<p><a href="https://pinheirops.github.io/FrontEndMentor-QRCODE/QRcode.html">Clique aqui para vizualizar o execício</a></p>
+
