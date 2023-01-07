@@ -9,6 +9,3 @@
 </ul>
 
 <hr>
-
-<p><a href="https://pinheirops.github.io/FrontEndMentor-QRCODE/QRcode.html">Clique aqui para vizualizar o execício</a></p>
-
